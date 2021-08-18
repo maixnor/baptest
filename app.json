@@ -1,0 +1,14 @@
+{
+  "name": "baptest",
+  "description": "This app should demonstrate how to deploy ASP.net 5 to Heroku.",
+  "keywords": [
+    "heroku",
+    "showcase",
+    "ASP.net 5"
+  ],
+  "buildpacks": [
+    {
+      "url": "jincod/dotnetcore"
+    }
+  ]
+}
